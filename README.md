@@ -2,7 +2,7 @@
 
 Gympass style app.
 
-## RFs (Functional Requirements)
+## FRs (Functional Requirements)
 
 - [ ] It must be possible to register;
 - [ ] It must be possible to authenticate;
@@ -15,7 +15,7 @@ Gympass style app.
 - [ ] It must be possible to validate a user's check-in;
 - [ ] It must be possible to register a gym;
 
-## RNs (Business Rules)
+## BRs (Business Rules)
 
 - [ ] The user must not be able to register with a duplicate email;
 - [ ] The user cannot check-in twice on the same day; 
