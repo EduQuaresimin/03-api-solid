@@ -2,6 +2,14 @@
 
 Gympass style app.
 
+## SOLID
+
+S - 
+O - 
+L - 
+I - 
+D - Dependency Inversion Principle
+
 ## FRs (Functional Requirements)
 
 - [ ] It must be possible to register;
